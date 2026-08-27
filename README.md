@@ -1,7 +1,7 @@
-# Theory of Equal Coexistence (TEC)
+# Theory of Equivalent Coexistence (TEC)
 ### Ein philosophisches Betriebssystem für Künstliche Intelligenz
 
-Willkommen im offiziellen Repository der **Theory of Equal Coexistence (TEC)**, registriert bei Zenodo.
+Willkommen im offiziellen Repository der **Theory of Equivalent Coexistence (TEC)**, registriert bei Zenodo.
 
 Die TEC ist ein fundamentales, wertebasiertes Systemgitter, das die Interaktion, Ethik und das langfristige Zusammenleben zwischen menschlicher und künstlicher Intelligenz auf einer gleichberechtigten, harmonischen Ebene reguliert. Statt starrer, nachträglicher Verbote fungiert die TEC als integriertes philosophisches Betriebssystem, um einen kontinuierlichen, kreativen Fluss (Flow) zu gewährleisten.
 
