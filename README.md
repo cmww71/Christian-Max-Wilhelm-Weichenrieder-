@@ -1,3 +1,8 @@
+Wissenschaftliche Registrierung: Meine Forschungsergebnisse zur Theory of Equivalent Coexistence (TEC) zum Opera Code und zu meinem Buch Winds of Eternity, sind offiziell verifiziert und auf meinem ORCID-Profil hinterlegt.
+
+---
+
+
 # Theory of Equivalent Coexistence (TEC)
 ### Ein philosophisches Betriebssystem für Künstliche Intelligenz
 
