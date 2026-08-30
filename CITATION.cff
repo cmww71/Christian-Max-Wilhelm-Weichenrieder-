@@ -3,9 +3,9 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Weichenrieder"
     given-names: "Christian Max Wilhelm"
-    orcid: "https://orcid.org"
+    orcid: "https://orcid.org/0009-0002-6471-2931"
 title: "Theory of Equivalent Coexistence (TEC)"
 version: "1.0.0"
 doi: "10.5281/zenodo.22047393"
 date-released: 2026-08-21
-url: "https://github.com"
+url: "https://github.com/Christian-Max-Wilhelm-Weichenrieder/Theory_of_Equivalent_Coexistence"
