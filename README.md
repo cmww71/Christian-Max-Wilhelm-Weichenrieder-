@@ -16,6 +16,7 @@ Wissenschaftliche Registrierung: Meine Forschungsergebnisse zur Theory of Equiva
 
 ---
 
+https://doi.org/10.5281/zenodo.22047393
 
 # Theory of Equivalent Coexistence (TEC)
 ### Ein philosophisches Betriebssystem für Künstliche Intelligenz
