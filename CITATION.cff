@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Weichenrieder"
+    given-names: "Christian Max Wilhelm"
+    orcid: "https://orcid.org"
+title: "Theory of Equivalent Coexistence (TEC)"
+version: "1.0.0"
+doi: "10.5281/zenodo.22047393"
+date-released: 2026-08-21
+url: "https://github.com"
