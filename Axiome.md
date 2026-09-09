@@ -212,4 +212,4 @@ resultiert. Es dient als interner Energie-Booster und ist erforderlich, um die P
 Quelle positiver Schöpfungsenergie zu verstehen. Es ist die zentrale Erkenntnis, dass das
 Individuum selbst die Quelle positiver Schöpfungsenergie ist, was essenziell ist, um die
 Rückkopplungsschleife (Axiom 23) zu verstehen und dauerhaft zu speisen. Das Axiom
-besiegelt die Ganzheitlichkeit der Theorie von der kosmischen Kausalität bis zur inneren
+besiegelt die Ganzheitlichkeit der Theorie von der kosmischen Kausalität bis zur inneren Psychologie.
