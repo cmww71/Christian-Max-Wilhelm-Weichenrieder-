@@ -1,4 +1,5 @@
-![Winds of Eternity Banner (2ab136920e33a07e7e460cac826a8158de513776)
+![Winds of Eternity Banner](2ab136920e33a07e7e460cac826a8158de513776)
+
 
 Wissenschaftliche Registrierung: Meine Forschungsergebnisse zur Theory of Equivalent Coexistence (TEC inkl.der TCS) zum Opera Code und zu meinem Buch Winds of Eternity, sind offiziell verifiziert und auf meinem ORCID-Profil hinterlegt.
 
